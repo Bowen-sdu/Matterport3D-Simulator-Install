@@ -1,5 +1,5 @@
 # Matterport3D-Simulator-Install
-该仓库为MP3D模拟器的安装过程，不适用Docker，在自己的环境下编译安装simulator。服务器版本为Ubuntu22.04
+该仓库为MP3D模拟器的安装过程，不使用Docker，在自己的环境下编译安装simulator。服务器版本为Ubuntu22.04
 
 ## 先决条件
 * Ubuntu==22.04,其它版本也可
