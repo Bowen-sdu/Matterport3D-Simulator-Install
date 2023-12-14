@@ -67,7 +67,7 @@ cd build
 ```
 * 使用自己的python环境来编译，PYTHON_EXECUTABLE为你的python路径
 ```
-cmake -DPYTHON_EXECUTABLE=/home/huangbw/miniconda3/envs/python39/bin/python3 -DEGL_RENDERING=ON ..
+cmake -DPYTHON_EXECUTABLE=../miniconda3/envs/python39/bin/python3 -DEGL_RENDERING=ON ..
 ```
 * 若报错`No package 'jsoncpp' found`，安装该包
 ![jsoncpp错误](https://github.com/Bowen-sdu/Matterport3D-Simulator-Install/assets/57526757/3c90b274-37e2-4001-828c-ad47b5fa0794)
