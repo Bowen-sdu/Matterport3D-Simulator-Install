@@ -1,0 +1,2 @@
+# Matterport3D-Simulator-Install
+该仓库为MP3D模拟器的安装过程，不适用Docker，在自己的环境下编译安装simulator
