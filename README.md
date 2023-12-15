@@ -32,6 +32,8 @@ python download_mp.py -o ../VLN/data --type undistorted_depth_images undistorted
 ```
 注意：这里python要用python2.7版本来运行
 
+数据集下载完成后，将其解压，[解压代码](https://pan.baidu.com/s/1fu7TxcTDEg6dgfNl1PZ50A)，提取码：MP3D
+
 ## OpenGL安装
 参考官网安装方法即可：
 ```
