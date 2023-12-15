@@ -10,6 +10,7 @@
 * OpenGL
 * GLM
 * Numpy
+
 除了OpenCV和OpenGL，其它软件，服务器上一般都有安装，这里只介绍OpenCV和OpenGL的安装方式。
 
 ## 数据集下载
