@@ -28,7 +28,7 @@ python download_mp.py -o [你的下载路径] --type matterport_skybox_images
 
 如果要下载深度数据，则指令如下：
 ```
-python download_mp.py -o /home/w61/VLN/dataset --type undistorted_depth_images undistorted_camera_parameters
+python download_mp.py -o ../VLN/data --type undistorted_depth_images undistorted_camera_parameters
 ```
 注意：这里python要用python2.7版本来运行
 
